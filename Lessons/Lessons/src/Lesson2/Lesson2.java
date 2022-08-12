@@ -22,6 +22,7 @@ public class Lesson2 {
         /** fractional numbers */
         float numF = 5.0f;  // 4 Bytes
         double numD = 5.0d; // 8 Bytes
+        double numD2 = 5.0; // 8 Bytes
 
         /** Characters */
         char c_init = 'a'; // 2 Bytes
